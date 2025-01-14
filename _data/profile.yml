@@ -1,19 +1,18 @@
-primary_name: "Rongsheng Wang"
+primary_name: "Chenyu Zhao"
 secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+navbar_name: "Sun Fish's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
+  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Wuhan University" class="inline-badge"/></span> M.S., Wuhan University (2023-2026)'
 
-email: "wang.rongsheng@outlook.com"
-gscholar: SSaBaioAAAAJ
-sscholar: Rongsheng-Wang/2261313297
-github: wangrongsheng
-twitter: RongshengWang
+email: "cyzhao@whu.edu.cn"
+# gscholar: SSaBaioAAAAJ
+# sscholar: Rongsheng-Wang/2261313297
+github: ChiuSenyu
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-zhihu: wang-rong-sheng-74
+# zhihu: wang-rong-sheng-74
 resume: assets/cv/Resume_RongshengWang.pdf
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
